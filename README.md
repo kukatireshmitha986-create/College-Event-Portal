@@ -67,16 +67,6 @@ The project is deployed using GitHub Pages and is available as a live web applic
         ├── event5.jpg
         └── event6.jpg
 
-## 🖼️ Event Gallery
-
-The project includes six event/festival images:
-
-- `images/event1.jpg`
-- `images/event2.jpg`
-- `images/event3.jpg`
-- `images/event4.jpg`
-- `images/event5.jpg`
-- `images/event6.jpg`
 
 ### Gallery Preview
 
@@ -167,10 +157,6 @@ The project can be further enhanced by adding:
 **Department:** Artificial Intelligence & Data Science
 
 **Institution:** Prathyusha Engineering College
-
-## 🏷️ GitHub Topics
-
-`html5` `css3` `bootstrap5` `javascript` `college-event-portal` `event-management` `college-events` `technova-2026` `frontend-project` `web-development` `responsive-web-design`
 
 ## 📄 License
 
