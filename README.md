@@ -8,6 +8,14 @@ The **TECHNOVA 2026 College Event Portal** is a front-end web application develo
 
 The portal provides an organized and attractive interface where students can explore event information, view announcements, check schedules, browse event images, and interact with registration/contact forms.
 
+## 🌐 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-TECHNOVA%202026-blue?style=for-the-badge)](https://kukatireshmitha986-create.github.io/College-Event-Portal/)
+
+🚀 **[Open TECHNOVA 2026 College Event Portal](https://kukatireshmitha986-create.github.io/College-Event-Portal/)**
+
+The project is deployed using GitHub Pages and is available as a live web application.
+
 ## 🎯 Objectives
 
 - Create a centralized portal for TECHNOVA 2026.
